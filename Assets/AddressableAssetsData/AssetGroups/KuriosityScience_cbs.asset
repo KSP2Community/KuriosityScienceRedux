@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: KuriosityScience_cbs
+  m_EditorClassIdentifier: 
+  m_GroupName: KuriosityScience_cbs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5fd66a18681bffc46b6acf0d97a94fd0
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: baeb1367bae63ab4b92082cf271f9f08, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bf00704cf2975e144923a158e2cf1b85, type: 2}
+    - {fileID: 11400000, guid: 5bd7601c8d16886449e0fb1d1ecdea51, type: 2}

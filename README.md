@@ -28,6 +28,9 @@ Kurious events that inspire our kerbals to complete some science!
 - Updated localization
 
 ## Changelog
+> v0.2.0
+>   - Ported to KSP2 Redux
+> 
 > v0.1.3
 >	- Added Russian localization (thanks to Topos)
 >

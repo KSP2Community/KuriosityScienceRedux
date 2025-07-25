@@ -1,0 +1,25 @@
+{
+  "spec": "2.0",
+  "mod_id": "KuriosityScience",
+  "name": "Kuriosity Science",
+  "author": "Cadestronaut, cheese3660",
+  "description": "Kurious events that inspire our kerbals to complete some science!",
+  "source": "https://github.com/KSP2Community/KuriosityScienceRedux",
+  "version": "0.2.0",
+  "version_check": "https://raw.githubusercontent.com/KSP2Community/KuriosityScienceRedux/Assets/KuriosityScience/swinfo.json",
+  "ksp2_version": {
+    "min": "0.2.3.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "SpaceWarp2",
+      "version": {
+        "min": "2.0.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": [],
+  "main-assembly": "KuriosityScience.dll"
+}
