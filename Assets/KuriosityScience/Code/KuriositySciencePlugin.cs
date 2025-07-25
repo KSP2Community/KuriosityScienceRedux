@@ -37,6 +37,7 @@ namespace KuriosityScience
 
         public override void OnPreInitialized()
         {
+            SetupConfiguration();
         }
 
         /// <summary>
@@ -68,7 +69,6 @@ namespace KuriosityScience
 
         public override void OnPostInitialized()
         {
-            SetupConfiguration();
         }
 
         private void SetupConfiguration()
